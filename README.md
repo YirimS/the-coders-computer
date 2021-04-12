@@ -13,4 +13,8 @@ Reading Notes for Coders Computer
  # Choosing a Text editor
  ## What is a Text Editor?
 <p> A text editor is a type of program used for editing plain text files. A text editor is a piece of software that you download and install on
-your computer, or you access online through your web browser. 
+your computer, or you access online through your web browser. Explore & Choose a Text Editor that you like.
+ 
+### Text Editors allows you to...
+- Code More Efficiently.
+- Allows you to code and edit different program languages.
